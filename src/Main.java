@@ -12,6 +12,5 @@ public class Main {
       eksekutif.bagasiEkstra();
     }
     System.out.println("===================================");
-
   }
-}
+} 
